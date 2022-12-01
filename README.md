@@ -7,3 +7,5 @@ i use **ubuntu 22.04**
 3. [polybar-theme](https://github.com/adi1090x/polybar-themes) follow the **installation** part, then follow **launch the bar** part
 4. to make polybar start automatically with **bspwm**, do `vim ~/.config/bspwm/bspwmrc` search for "#Start polybar first" and change to `bash ~/.config/polybar/launch.sh --shades` *--shades* can be replaced with other theme of **polybar-themes**
 5. just copy my backup to `.config/{app}` according to name of folder and restart the pc
+
+![preview 1](2022-12-01_16-08.png)
