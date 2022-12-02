@@ -6,6 +6,10 @@
 super + x
 	kitty 
 
+# launch power menu
+ctrl + alt + p
+  ~/.config/polybar/shades/scripts/powermenu.sh
+
 # program launcher
 super + r
 	rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/shades/scripts/rofi/launcher.rasi
